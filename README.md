@@ -1,12 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=malikmoaz01&style=plastic&color=brightgreen)
+
 
 <h1 align="center">Hi 👋, I am Malik Moaz</h1>
 <h3 align="center">Developer and Coder from Pakistan 🧑‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikmoaz01&label=Profile%20views&color=0e75b6&style=flat" alt="malikmoaz01" /> </p>
-
-<p align="left"> <a href="https://github.com/malikmoaz01" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mlkmoaz01" /></a> </p>
-
+![Profile views](https://komarev.com/ghpvc/?username=malikmoaz01&style=plastic&color=brightgreen)
 
 <h3 align="center">In the symphony of algorithms, I breathe life into data, where code learns and evolves, turning raw numbers into intelligent whispers that shape tomorrow's reality.</h3>
 
