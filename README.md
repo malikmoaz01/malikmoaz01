@@ -67,6 +67,16 @@
 - Web Development
 - Machine Learning 
 
+  <tr>
+    <!-- <th>Stats</th> -->
+    <th align="center">Github Statistics : </th>
+  </tr>
+  <tr>
+  <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmoaz01&show_icons=true&locale=en" alt="malikmoaz01" /></td>
+  
+  </tr>
+</table>
+
 <table>
   <tr>
     <!-- <th>Stats</th> -->
@@ -76,7 +86,7 @@
   <tr>
   <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikmoaz01&" alt="malikmoaz01" /></td>
   <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmoaz01&show_icons=true&locale=en&layout=compact" alt="malikmoaz01" /></td>
-  <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmoaz01&show_icons=true&locale=en" alt="malikmoaz01" /></td>
+  
   </tr>
 </table>
 
