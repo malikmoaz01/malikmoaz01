@@ -67,15 +67,8 @@
 - Web Development
 - Machine Learning 
 
-  <tr>
-    <!-- <th>Stats</th> -->
-    <th align="center">Github Statistics : </th>
-  </tr>
-  <tr>
-  <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmoaz01&show_icons=true&locale=en" alt="malikmoaz01" /></td>
-  
-  </tr>
-</table>
+ 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmoaz01&show_icons=true&locale=en" alt="malikmoaz01" /></p>
 
 <table>
   <tr>
