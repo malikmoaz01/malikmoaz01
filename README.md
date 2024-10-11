@@ -64,8 +64,7 @@
 
 - **Web Development(MERN, Flask & Django)**
 - **Machine Learning** 
-
----
+<hr style="border: none; border-top: 1px solid #ccc; width: 50px;" />
 <table>
   <tr>
     <!-- <th>Stats</th> -->
