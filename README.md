@@ -5,9 +5,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=malikmoaz01&style=plastic&color=brightgreen)
 
-<a href="https://github.com/malikmoaz01/resume" download="Malik_Moaz_CV" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge" alt="Download CV"/>
-</a>
+
 
 <h3 align="center">In the symphony of algorithms, I breathe life into data, where code learns and evolves, turning raw numbers into intelligent whispers that shape tomorrow's reality.</h3>
 
@@ -19,13 +17,10 @@
 
 - ⚡ Fun fact **The universe of numbers is infinite, yet some infinities can fit within others**
 
-<!-- <h3 align="left">Connect with me </h3>
+<a href="https://github.com/malikmoaz01/resume" download="Malik_Moaz_CV" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge" alt="Download CV"/>
+</a>
 
----
-
-<p align="left">
-<a href="https://pk.linkedin.com/in/malik-moaz-735911247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/malikmoaz01" height="30" width="40" /></a>
-</p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -78,7 +73,6 @@
 
 <table>
   <tr>
-    <!-- <th>Stats</th> -->
     <th align="center">Streak</th>
     <th align="center">Languages</th>
   </tr>
