@@ -62,9 +62,10 @@
 
 ---
 
-- Web Development
-- Machine Learning 
+- **Web Development(MERN, Flask & Django)**
+- **Machine Learning** 
 
+---
 <table>
   <tr>
     <!-- <th>Stats</th> -->
