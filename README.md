@@ -5,13 +5,13 @@
 
 <h3 align="center">In the symphony of algorithms, I breathe life into data, where code learns and evolves, turning raw numbers into intelligent whispers that shape tomorrow's reality.</h3>
 
-- 🌱 I’m currently in **mystic depths of self-discover**
+- 🌱 I’m currently in **profound journey of self-discovery**
 
 - 💬 Ask me about **Web Development & Machine Learning**
 
 - 📫 How to reach me <a href="mailto:mlkmoaz01@gmail.com">**<mlkmoaz01@gmail.com>**</a>
 
-- ⚡ Fun fact **Some Infinities are bigger than other infinities**
+- ⚡ Fun fact **The universe of numbers is infinite, yet some infinities can fit within others**
 
 <!-- <h3 align="left">Connect with me </h3>
 
@@ -20,7 +20,20 @@
 <p align="left">
 <a href="https://pk.linkedin.com/in/malik-moaz-735911247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://pk.linkedin.com/in/malikmoaz01" height="30" width="40" /></a>
 </p> -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
+<a href="https://linkedin.com/in/malik-moaz-735911247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-moaz-735911247" height="30" width="40" /></a>
+<a href="https://fb.com/mlkmoaz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mlkmoaz01" height="30" width="40" /></a>
+<a href="https://instagram.com/mlk_moaz_01.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlk_moaz_01.py" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mlkmoaz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mlkmoaz01" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mlk_moaz_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mlk_moaz_01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mlkmoaz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mlkmoaz01" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mlkmoaz01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="mlkmoaz01" height="30" width="40" /></a>
+</p>
+
+
+<br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
