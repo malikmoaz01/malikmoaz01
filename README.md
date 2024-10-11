@@ -74,9 +74,7 @@
     <th align="center">Languages</th>
   </tr>
   <tr>
-    <!-- <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malikmoaz01&theme=gruvbox"/></td> -->
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=malikmoaz01&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <!-- <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malikmoaz01&theme=gruvbox"/></td> -->
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmoaz01&show_icons=true&locale=en&layout=compact" alt="malikmoaz01" /></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmoaz01&theme=gruvbox&hide_border=true&show_icons=true&locale=en&layout=compact" alt="malikmoaz01" /></td>
   </tr>
 </table>
