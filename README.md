@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=malikmoaz01&style=plastic&color=brightgreen)
 
 <h1 align="center">Hi 👋, there</h1>
-**Developer and Coder from Pakistan** 👨‍💻
+<h3 align="center">Developer and Coder from Pakistan 🧑‍💻</h3>
 
 <h3 align="center">In the symphony of algorithms, I breathe life into data, where code learns and evolves, turning raw numbers into intelligent whispers that shape tomorrow's reality.</h3>
 
