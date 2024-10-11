@@ -5,6 +5,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=malikmoaz01&style=plastic&color=brightgreen)
 
+<a href="https://github.com/malikmoaz01/resume" download="Malik_Moaz_CV" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge" alt="Download CV"/>
+</a>
+
 <h3 align="center">In the symphony of algorithms, I breathe life into data, where code learns and evolves, turning raw numbers into intelligent whispers that shape tomorrow's reality.</h3>
 
 - 🌱 I’m currently in **profound journey of self-discovery**
