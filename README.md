@@ -18,7 +18,7 @@
 - ⚡ Fun fact **The universe of numbers is infinite, yet some infinities can fit within others**
 
 <a href="https://github.com/malikmoaz01/resume" download="Malik_Moaz_CV" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge" alt="Download CV" width="90" height="35"/>
+  <img src="https://img.shields.io/badge/Download%20CV-Click%20Here-brightgreen?style=for-the-badge" alt="Download CV" width="90" height="20"/>
 </a>
 
 <h3 align="left">Connect with me:</h3>
