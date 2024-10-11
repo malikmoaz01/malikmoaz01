@@ -34,8 +34,6 @@
 <a href="https://www.codechef.com/users/mlkmoaz01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" alt="mlkmoaz01" height="30" width="40" /></a>
 </p>
 
-
-<br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
