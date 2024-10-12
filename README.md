@@ -65,8 +65,8 @@
 
 ---
 
-- Web Development
-- Machine Learning 
+- **Web Development(MERN, Flask & Django)**
+- **Machine Learning** 
 
  
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmoaz01&show_icons=true&locale=en" alt="malikmoaz01" /></p>
