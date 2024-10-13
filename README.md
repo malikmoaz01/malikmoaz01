@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I am Malik Moaz</h1>
-<h3 align="center">Developer and Coder from Pakistan🧑‍💻</h3>
+<h3 align="center">Developer and Coder from Pakistan 🧑‍💻</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=malikmoaz01&style=plastic&color=brightgreen)
 
