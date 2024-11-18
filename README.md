@@ -69,20 +69,7 @@
 - **Machine Learning** 
 
  
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikmoaz01&show_icons=true&locale=en" alt="malikmoaz01" /></p>
 
-
-<table>
-  <tr>
-    <th align="center">Streak</th>
-    <th align="center">Languages</th>
-  </tr>
-  <tr>
-  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikmoaz01&" alt="malikmoaz01" /></td> 
-  <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmoaz01&show_icons=true&locale=en&layout=compact" alt="malikmoaz01" /></td>
-  
-  </tr>
-</table>
 
 
 <p align=center><b>Feel free to ask any query related to the topics I have explained in my repositories.</b></p>
