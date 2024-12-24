@@ -78,7 +78,7 @@
     <th align="center">Languages</th>
   </tr>
   <tr>
-  <td><https://github-profile-summary-cards.vercel.app/api/cards/streak-stats?user=malikmoaz01></td> 
+ <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikmoaz01&" alt="malikmoaz01" /></td>
   <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikmoaz01&show_icons=true&locale=en&layout=compact" alt="malikmoaz01" /></td>
   
   </tr>
