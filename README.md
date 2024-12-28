@@ -1,5 +1,5 @@
    
-
+   
 <h1 align="center">Hi 👋, I am Malik Moaz</h1>
 <h3 align="center">Developer and Coder from Pakistan 🧑‍💻</h3>
 
